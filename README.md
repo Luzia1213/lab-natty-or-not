@@ -1,4 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Título do Projeto Extremamente Aesthetic ;)
+Inteligência Artificial
+## 📒 Descrição
+Projeto de IA que demonstra um modelo básico de aprendizado de máquina para classificação de dados.
+
+## 🤖 Tecnologias Utilizadas
+.Python
+.TensorFlow
+.Keras
+.Scikit-learn
+.Pandas
+.Numpy
+
+## 🧐 Processo de Criação
+1-Coleta de dados
+2-Pré-processamento de dados
+3-Treinamento de modelo
+4-Avaliação de modelo
+5-implementação de IA
+
+## 🚀 Resultado
+Modelo de IA capaz de classificardados com precisão de 90%.
+
+## 💭 Reflexão (Opcional)
+Aprendi que a IA requer uma combinação de conhecimento em matemática, estatística e programação. O projeto demonstrou a importância da seleção de dados e do pré-processamento para o sucesso do modelo.
 
 ## 🚀 Introdução
 
