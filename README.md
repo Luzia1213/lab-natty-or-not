@@ -1,4 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Título do Projeto Extremamente Aestheti
+Extremamente Aestheti
+## 📒 Descrição
+Breve descrição do seu projeto'
+Um projetode design e desenvolvimentode um teplante extremamente estético e funcional.-
+## 🤖 Tecnologias Utilizadas
+Liste as IAs Generativas e outras ferramentas usadas
+
+## 🧐 Processo de Criação
+Descreva como você criou o conteúdo
+Ultilizei o CatGPT na criação
+## 🚀 Resultados
+Apresente os resultados do seu projeto
+
+## 💭 Reflexão (Opcional)
+Comente sobre o desafio de criar algo 'natty' com IA.# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
 
